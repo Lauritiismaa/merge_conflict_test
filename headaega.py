@@ -1,2 +1,3 @@
-print("Tere")
 print("Thugshake")
+print("Headaeg")
+print("Tere")
